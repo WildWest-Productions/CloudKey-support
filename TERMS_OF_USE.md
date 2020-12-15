@@ -6,8 +6,8 @@ provided that you follow, and agree to all the following terms.
 “The Server” is where the uploaded data is stored. “This Software”
 or “The Software” refers to this App, CloudKey.
 
-Please be sure to read, and agree to the Privacy Policy:
-https://wildwest-productions.com/remotefiles-privacypolicy
+Be sure to read, and agree to the Privacy Policy:
+https://github.com/WildWest-Productions/CloudKey-support/blob/main/PRIVACY_POLICY.md
 
 You are allowed to use This Software for personal use — to legally
 store, and or legally sharing files, images, videos, or other data
@@ -22,14 +22,6 @@ for ANY file(s) you upload using This Software.
 You expressly acknowledge and agree that you will be liable for any
 direct, indirect, incidentally, special, exemplary, or consequential
 damages however caused by use of This Software.
-
-### Your Privacy:
- - Any data on The Server will be visible to the owner(s) of The Server.
- - Files uploaded are encrypted with AES-256 encryption algorithm (only if enabled).
- - Your data (like IP address) may be collected when using this app.
- - This Software may make calls over HTTP (non-SSL encrypted).
- - Your machine serial number SHA1 will be collected, and stored on The Server.
- - Your machine username will be collected, and stored on The Server.
 
 ### Your Data:
  - Any files on The Server may be removed from The Server without warning or notice.
