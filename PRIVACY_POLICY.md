@@ -9,6 +9,7 @@
  - This Software may make calls over HTTP (non-SSL encrypted).
  - Your machine serial number SHA1 will be collected, and stored on The Server.
  - Your machine username will be collected, and stored on The Server.
+ - Using This Software, your geographic location (for example, country or city level location) and other technical information that may identify you may be collected.
 
 Last updated by WestleyR on 2020-12-14
 
