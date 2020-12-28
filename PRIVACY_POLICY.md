@@ -11,11 +11,13 @@ By using the licensed application (the software), you agree to all the following
  - This Software may make calls to the internet without notice.
  - Your machine serial number will be collected, and stored on The Server.
  - Your machine username will be collected, and stored on The Server.
+ - Any file(s) or data you upload using This Software is collected, and stored on The Server.
  - Using This Software, your geographic location (for example, country or city level location) and other technical information that may identify you may be collected.
- - Your files you upload is linked to your identiy.
+ - The file(s) and data you upload is linked to your identity.
+ - If there is legal issues or usage concerns with your data, the collected data may be shared or exposed to third-parties.
 
 If you have any questions, please email: westleyr@nym.hush.com.
 
-Last updated by WestleyR on 2020-12-25
+Last updated by WestleyR on 2020-12-27
 
 END_PRIVACY_POLICY
