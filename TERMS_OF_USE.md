@@ -28,7 +28,7 @@ Do not use This Software (nor the service The Software provides) to copy, upload
  - Any legal ramifications and or issues regarding any data you upload may be reported to third-parties.
  - You will take all damages and liabilities regarding any file(s) you upload.
  - You are liable for any direct, indirect, incidental, exemplary, consequential, physical, nonphysical and or personal damage however caused and on any theory of liability in any way out of the use of This Software.
- - You are liable for all physical, and nonphysical damage however caused by using This Software.
+ - You are liable for all physical, and or nonphysical damage however caused by using This Software.
  - You are liable for any personal damage however caused by using This Software.
 
 YOU SOLELY ACKNOWLEDGE THAT YOU ARE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
