@@ -2,7 +2,7 @@
 
 By using the licensed application (the software), you agree to all the following terms.
 
-"The Server" is where the uploaded data is stored. "This Software" refers to this App, Remote Files.
+"The Server" is where the uploaded data is stored. "This Software" refers to the licensed appication; CloudKey.
 
  - Any data on The Server will be visible to the owner(s) of The Server.
  - Your data (like IP address) may be collected when using this app.
