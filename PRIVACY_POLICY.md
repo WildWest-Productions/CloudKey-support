@@ -2,8 +2,7 @@
 
 By using the licensed application (the software), you agree to all the following terms.
 
- - "The Server" is where the uploaded data is stored.
- - "This Software" refers to this App, Remote Files.
+"The Server" is where the uploaded data is stored. "This Software" refers to this App, Remote Files.
 
  - Any data on The Server will be visible to the owner(s) of The Server.
  - Your data (like IP address) may be collected when using this app.
@@ -18,6 +17,6 @@ By using the licensed application (the software), you agree to all the following
 
 If you have any questions, please email: westleyr@nym.hush.com.
 
-Last updated by WestleyR on 2020-12-27
+Last updated by WestleyR on 2021-01-02
 
 END_PRIVACY_POLICY
