@@ -1,6 +1,6 @@
 # Terms of Use
 
-You are allowed to use this licensed application (the software), provided that you follow, and agree to all the following terms. Failure to follow all these terms will result in severe lawful penalties, and losses.
+You are allowed to use this licensed application (the software), provided that you follow, and agree to all the following terms.
 
 Be sure to read, and agree to the Privacy Policy: https://github.com/WildWest-Productions/CloudKey-support/blob/main/PRIVACY_POLICY.md
 
@@ -9,7 +9,7 @@ Be sure to read, and agree to the Privacy Policy: https://github.com/WildWest-Pr
 
 ## Usage:
 
-You are allowed to use This Software for personal use — to legally store, and or legally sharing files, images, videos, or other data only for your personal use. Any other use is forbidden, and will result in lawful penalties, and losses.
+You are allowed to use This Software for personal use — to legally store, and or legally sharing files, images, videos, or other data only for your personal use. Any other use is strictly forbidden.
 
 Do not use This Software (nor the service The Software provides) to copy, upload, download, and or share file and or other data unless you have the rights to do so.
 
@@ -41,8 +41,8 @@ YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE LICENSED APPLICATION IS AT Y
 
 All of these Terms are additional to any other agreement that accompanied The Software. Including Apples Standard License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-If you have any questions, please email: westleyr@nym.hush.com.
+If you have any questions, please email: cloudkey.support@nym.hush.com.
 
-Last updated on: 2020-12-28 by WestleyR
+Last updated on: 2021-01-02 by WestleyR
 
 END_TERMS_OF_USE
