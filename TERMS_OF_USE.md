@@ -1,22 +1,19 @@
 # Terms of Use
 
-You are allowed to use this licensed application (the software), provided that you follow, and agree to all the following terms.
+You, the end user (“You”) are allowed to use this licensed application (“The Software”, or “This Software”) and the service The Software provides (“The Service”) provided that you follow, and agree to all the following terms, and agree to the Privacy Policy: https://github.com/WildWest-Productions/CloudKey-support/blob/main/PRIVACY_POLICY.md
 
-Be sure to read, and agree to the Privacy Policy: https://github.com/WildWest-Productions/CloudKey-support/blob/main/PRIVACY_POLICY.md
-
- - “The Server” is where the uploaded data is stored.
- - “This Software” or “The Software” refers to this App, CloudKey.
+Your files and or data (“Your Content”) your upload using This Software is stored of The Server (“The Server”) that This Software provides you with. Your Content is always owned by You.
 
 ## Usage:
 
  - You are allowed to use This Software for personal use — to legally store, and or legally sharing files, images, videos, or other data only for your personal use. Any other use is strictly forbidden.
- - Do not use This Software (nor the service The Software provides) to copy, upload, download, and or share files and or other data unless you have the rights to do so.
+ - Do not use This Software (nor The Service) to copy, upload, download, and or share files and or other data unless you have the rights to do so.
  - You may be locked out from using This Software without apparent reason or notice.
 
 ## Your data:
 
- - Any files on The Server may be removed from The Server without warning or notice.
- - Your data can only be accessed with the same device matching the serial number and user name that uploaded it.
+ - Your Content on The Server may be removed from The Server without warning or notice.
+ - Your Content, or other data that may identify You that is on The Server may be exposed to third-parties if such a need arises.
 
 ## You are liable:
 
