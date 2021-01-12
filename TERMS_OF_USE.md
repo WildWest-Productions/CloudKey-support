@@ -9,9 +9,9 @@ Be sure to read, and agree to the Privacy Policy: https://github.com/WildWest-Pr
 
 ## Usage:
 
-You are allowed to use This Software for personal use — to legally store, and or legally sharing files, images, videos, or other data only for your personal use. Any other use is strictly forbidden.
-
-Do not use This Software (nor the service The Software provides) to copy, upload, download, and or share file and or other data unless you have the rights to do so.
+ - You are allowed to use This Software for personal use — to legally store, and or legally sharing files, images, videos, or other data only for your personal use. Any other use is strictly forbidden.
+ - Do not use This Software (nor the service The Software provides) to copy, upload, download, and or share files and or other data unless you have the rights to do so.
+ - You may be locked out from using This Software without apparent reason or notice.
 
 ## Your data:
 
@@ -43,6 +43,6 @@ All of these Terms are additional to any other agreement that accompanied The So
 
 If you have any questions, please email: cloudkey.support@nym.hush.com.
 
-Last updated on: 2021-01-02 by WestleyR
+Last updated on: 2021-01-12 by WestleyR
 
 END_TERMS_OF_USE
