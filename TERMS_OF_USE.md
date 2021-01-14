@@ -36,7 +36,7 @@ YOUR SERVICE PROVIDER, APPLICATION PROVIDER, AND ANY PARTY OTHER THEN YOU ARE RE
 
 YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE LICENSED APPLICATION IS AT YOUR SOLE RISK.
 
-All of these Terms are additional to any other agreement that accompanied The Software. Including Apples Standard License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+All of these terms are additional to any other agreements that accompanied The Software. Including Apples Standard License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 If you have any questions, please email: cloudkey.support@nym.hush.com.
 
