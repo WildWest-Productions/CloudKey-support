@@ -1,6 +1,6 @@
 # Terms of Use
 
-You, the end user (“You”) are allowed to use this licensed application (“The Software”, or “This Software”) and the service The Software provides (“The Service”) provided that you follow, and agree to all the following terms, and agree to the Privacy Policy: https://github.com/WildWest-Productions/CloudKey-support/blob/main/PRIVACY_POLICY.md
+You, the end-user (“You”) are allowed to use this licensed application (“The Software”, or “This Software”) and the service The Software provides (“The Service”) provided that you follow, and agree to all the following terms, and agree to the Privacy Policy: https://github.com/WildWest-Productions/CloudKey-support/blob/main/PRIVACY_POLICY.md
 
 Your files and or data You upload using This Software (“Your Content”) is stored of The Server (“The Server”) that This Software provides you with. Your Content is always owned by You.
 
@@ -40,6 +40,6 @@ All of these terms are additional to any other agreements that accompanied The S
 
 If you have any questions, please email: cloudkey.support@nym.hush.com.
 
-Last updated on: 2021-01-14 by WestleyR
+Last updated on: 2021-01-17 by WestleyR
 
 END_TERMS_OF_USE
