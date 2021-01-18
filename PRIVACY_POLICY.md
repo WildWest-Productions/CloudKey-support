@@ -40,8 +40,8 @@ This Software will collect data automatically, and when needed.
 
 ### Collected data
 
-Any data collected on The Server may be shared or exposed to third-parties if a need arises. You
-take full responsibility and liability for any issues regarding data on The Server.
+Any data collected on The Server may be shared and/or exposed to third-parties if a need arises. You
+take full responsibility and liability for any issues regarding data on The Server that is linked to You.
 
 If you want the collected data (that is linked to You) to be removed from The Server, please contact support.
 
