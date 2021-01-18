@@ -1,22 +1,52 @@
 # Privacy Policy
 
-By using the licensed application (the software), you agree to all the following terms.
+By using the licensed application ("The Software", or "This Software") you, the end-user ("You") agree to all the following terms.
 
-"The Server" is where the uploaded data is stored. "This Software" refers to the licensed appication; CloudKey.
+Data This Software collects and/or data you upload using This Software is stored
+on The Server ("The Server"). Data on The Server may be visible to the owner(s) of The Server.
 
- - Any data on The Server will be visible to the owner(s) of The Server.
- - Your data (like IP address) may be collected when using this app.
- - This Software may make calls over HTTP (non-SSL encrypted).
- - This Software may make calls to the internet without notice.
- - Your machine serial number will be collected, and stored on The Server.
- - Your machine username will be collected, and stored on The Server.
- - Any file(s) or data you upload using This Software is collected, and stored on The Server.
- - Using This Software, your geographic location (for example, country or city level location) and other technical information that may identify you may be collected.
- - The file(s) and data you upload is linked to your identity.
- - If there is legal issues or usage concerns with your data, the collected data may be shared or exposed to third-parties.
+### Data that will be collected
 
-If you have any questions, please email: westleyr@nym.hush.com.
+All the following (but not limited to) will be collected, and stored on The Server. Collected
+data is linked to You and your identity.
 
-Last updated by WestleyR on 2021-01-02
+ - Your device serial number.
+ - Your device user name.
+ - Any file/data You select to upload.
+
+Other data that may be collected while using This Software.
+
+ - Your IP address.
+ - Your geographic location.
+ - Other information that may identify You.
+
+### What the collected data is used for
+
+Data that is collected may be used for all (but not limited to) the following.
+
+ - App functionality.
+ - User usage and management.
+
+### How is data collected
+
+Data is collected by the following methods (but not limited to).
+
+ - Making calls over the internet.
+ - Making calls over HTTP (non-SSL encrypted).
+
+### When data is collected
+
+This Software will collect data automatically, and when needed.
+
+### Collected data
+
+Any data collected on The Server may be shared or exposed to third-parties if a need arises. You
+take full responsibility and liability for any issues regarding data on The Server.
+
+If you want the collected data (that is linked to You) to be removed from The Server, please contact support.
+
+If you have any questions, please email: cloudkey.support@nym.hush.com.
+
+Last updated by WestleyR on 2021-01-17
 
 END_PRIVACY_POLICY
