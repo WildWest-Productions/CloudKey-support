@@ -2,8 +2,10 @@
 
 By using the licensed application ("The Software", or "This Software") you, the end-user ("You") agree to all the following terms.
 
-Data This Software collects and/or data you upload using This Software is stored
-on The Server ("The Server"). Data on The Server may be visible to the owner(s) of The Server.
+Data This Software collects and/or data you upload using This Software is stored on The
+Server ("The Server"). Data on The Server may be visible to the owner(s) of The Server.
+Any file and or data that was generated and or provided to You from This Software may
+contain your device serial number, and or your user name.
 
 ### Data that will be collected
 
@@ -12,6 +14,7 @@ data is linked to You and your identity.
 
  - Your device serial number.
  - Your device user name.
+ - Your usage.
  - Any file/data You select to upload.
 
 Other data that may be collected while using This Software.
@@ -47,6 +50,6 @@ If you want the collected data (that is linked to You) to be removed from The Se
 
 If you have any questions, please email: cloudkey.support@nym.hush.com.
 
-Last updated by WestleyR on 2021-01-17
+Last updated by WestleyR on 2021-01-30
 
 END_PRIVACY_POLICY
