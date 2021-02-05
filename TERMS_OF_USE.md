@@ -8,8 +8,8 @@ Your files and or data You upload using this Software (“Your Content”) is st
 
 ## Usage:
 
- - You are allowed to use this Software for personal use — to legally store, and or legally sharing files, images, videos, or other data only for your personal use. Any other use is strictly forbidden.
- - Do not use this Software (nor the Service) to copy, upload, download, and or share files and or other data unless you have the rights to do so.
+ - You are allowed to use this Software to legally store, and or legally sharing files, images, videos, or other data.
+ - Do not use this Software to copy, upload, download, and or share files, images, videos and or other data unless you have the rights to do so.
  - You may be locked out from using this Software or the Service without apparent reason or notice.
 
 ## Your data:
