@@ -1,1 +1,0 @@
-<embed src="https://github.com/WildWest-Productions/legals/raw/main/WildWest_Productions_LLC_Terms_of_Service.pdf" type="application/pdf" />
